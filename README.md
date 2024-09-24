@@ -52,19 +52,8 @@ Example inputs and their likeness scores:
 - Likeness score: 6
 
 More details about how the score is calculated and examples can be found in the project documentation (`project1.pdf`).
+<img width="938" alt="Screenshot 2024-09-24 at 4 15 26 PM" src="https://github.com/user-attachments/assets/7ee6f2e7-40fe-4e84-8565-f940f0e1781d">
+<img width="861" alt="Screenshot 2024-09-24 at 4 15 43 PM" src="https://github.com/user-attachments/assets/3bf98cbd-a41c-471f-8ca4-61910301bbeb">
+<img width="981" alt="Screenshot 2024-09-24 at 4 15 51 PM" src="https://github.com/user-attachments/assets/c20e75cf-4a61-425e-bf5e-4ea528ee71ff">
+<img width="901" alt="Screenshot 2024-09-24 at 4 16 02 PM" src="https://github.com/user-attachments/assets/1e23ba35-dc8c-49cd-8ed4-b39a13274ca6">
 
-## Function Descriptions
-
-### calcLikenessScore()
-
-This function calculates the likeness score between two sequences of equal length based on suit and rank matching. If the sequences are of different lengths, it returns `-1`.
-
-### bestLikenessScore()
-
-This function finds the best likeness score by evaluating all possible subsequences from the player's sequence.
-
-### findWinner()
-
-This function compares the likeness scores of three players and determines the winner with the highest likeness score to the golden sequence.
-
----
