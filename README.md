@@ -1,4 +1,3 @@
-I've updated the description to reflect that the execution file is named `sequenceOfCards.cpp`. Here's the final version:
 
 ---
 
