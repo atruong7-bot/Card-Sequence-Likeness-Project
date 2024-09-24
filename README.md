@@ -56,4 +56,5 @@ More details about how the score is calculated and examples can be found in the 
 <img width="861" alt="Screenshot 2024-09-24 at 4 15 43 PM" src="https://github.com/user-attachments/assets/3bf98cbd-a41c-471f-8ca4-61910301bbeb">
 <img width="981" alt="Screenshot 2024-09-24 at 4 15 51 PM" src="https://github.com/user-attachments/assets/c20e75cf-4a61-425e-bf5e-4ea528ee71ff">
 <img width="901" alt="Screenshot 2024-09-24 at 4 16 02 PM" src="https://github.com/user-attachments/assets/1e23ba35-dc8c-49cd-8ed4-b39a13274ca6">
+<img width="903" alt="Screenshot 2024-09-24 at 4 26 12 PM" src="https://github.com/user-attachments/assets/45dfd49d-e6ee-4ca9-9796-ebf37c8b1ee7">
 
